@@ -10,28 +10,21 @@ Responsive Design: Built with React and Tailwind CSS, ensuring a modern, respons
 
 To set up and run the Drunk Detection System, follow these steps:
 
-Prerequisites
-
+Prerequisites:-
 Python 3.x for the backend.
-
 Node.js and npm for the frontend.
-
 Git for cloning the repository.
 
-Run the Application
+Run the Application:-
 
-Start the backend:
+-> Start the backend: (The Flask server runs in debug mode on port 5000 by default.)
 
 cd backend
-
 python app.py
 
-The Flask server runs in debug mode on port 5000 by default.
-
-Start the frontend:
+-> Start the frontend:
 
 cd ../frontend
-
 npm run dev
 
 Usage
