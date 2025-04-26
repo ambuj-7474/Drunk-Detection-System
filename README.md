@@ -20,11 +20,13 @@ Run the Application:-
 -> Start the backend: (The Flask server runs in debug mode on port 5000 by default.)
 
 cd backend
+
 python app.py
 
 -> Start the frontend:
 
 cd ../frontend
+
 npm run dev
 
 Usage
